@@ -11,7 +11,7 @@ public class A4Q2 {
 			{
 				System.out.print("*");
 			}
-		
+			System.out.println();
 		}	
 		
 	}
